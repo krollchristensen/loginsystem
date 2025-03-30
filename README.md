@@ -1,7 +1,6 @@
 #  LoginSystem – hjælp til videreudvikling
 
-Dette repo indeholder 7 pædagogiske øvelser, der bygger videre på et simpelt login-system i Java med Spring Boot og JdbcTemplate.
-Opgaverne er designet til datamatikerstuderende, der allerede har lavet et grundlæggende login/register-flow.
+Dette repo indeholder 7  øvelser, der bygger videre på et simpelt login-system i Java med Spring Boot og JdbcTemplate.
 
 ##  Målgruppe
 - Studerende, der har arbejdet med:
