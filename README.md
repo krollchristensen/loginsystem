@@ -1,16 +1,16 @@
-# 📄 LoginSystem – hjælp til videreudvikling
+#  LoginSystem – hjælp til videreudvikling
 
 Dette repo indeholder 7 pædagogiske øvelser, der bygger videre på et simpelt login-system i Java med Spring Boot og JdbcTemplate.
 Opgaverne er designet til datamatikerstuderende, der allerede har lavet et grundlæggende login/register-flow.
 
-## 🏢 Målgruppe
+##  Målgruppe
 - Studerende, der har arbejdet med:
   - Spring Boot
   - Thymeleaf
   - JdbcTemplate (ingen JPA)
   - Session og controller-flow
 
-## 📖 Øvelser
+##  Øvelser
 | Nr | Titel                                      | Beskrivelse |
 |----|--------------------------------------------|-------------|
 | 1  | [Navbar med session](https://github.com/krollchristensen/loginsystem/blob/main/exercises/01_navbar_session.md) | Vis loginstatus øverst på alle sider |
